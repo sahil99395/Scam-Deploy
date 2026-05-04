@@ -1,0 +1,6 @@
+streamlit
+scikit-learn
+nltk
+openai-whisper
+torch
+ffmpeg-python
